@@ -23,4 +23,5 @@ There are few thing you need to keep in mind when doing it
 
 ** Next time you do a ATM transaction or online transaction through you credit card or netbanking (SAY ALL HAIL BOSS COBOL for my sweet purchase. )
 
-I STILL THINK ABOUT THIS QUESTION TO THIS DAY . CAN A COBOL CODE BEAT C++ HFT DEVS in terms of stock market transactions??? answer me on telegram @aroy52
+** you can reach me on telegram @aroy52
+
