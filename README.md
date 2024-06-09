@@ -22,3 +22,5 @@ There are few thing you need to keep in mind when doing it
 ** There is a reason why big businesses still are dependent on it.  COBOL Bro is reliable , resilient and COBOL is the fastest way to process data 
 
 ** Next time you do a ATM transaction or online transaction through you credit card or netbanking (SAY ALL HAIL BOSS COBOL for my sweet purchase. )
+
+I STILL THINK ABOUT THIS QUESTION TO THIS DAY . CAN A COBOL CODE BEAT C++ HFT DEVS in terms of stock market transactions??? answer me on telegram @aroy52
