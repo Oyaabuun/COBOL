@@ -17,7 +17,7 @@ There are few thing you need to keep in mind when doing it
 
 ** COBOL developers numbers are decreasing day by day and the world needs more COBOL developers becasue many many many big organissation daily mission critical workloads are still on these systems
 
-** I donot personally support any migration of COBOL, This language is very close to assembly language and the beauty of this thing is it can process millions and billions of records really fast compared to modern languages running on python data processing 
+** I donot personally support any migration of COBOL, This language is very close to assembly language and the beauty of this thing is it can process millions and billions of records really fast .
 
 ** There is a reason why big businesses still are dependent on it.  COBOL Bro is reliable , resilient and COBOL is the fastest way to process data 
 
