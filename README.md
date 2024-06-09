@@ -19,7 +19,7 @@ There are few thing you need to keep in mind when doing it
 
 ** I donot personally support any migration of COBOL, This language is very close to assembly language and the beauty of this thing is it can process millions and billions of records really fast .
 
-** There is a reason why big businesses still are dependent on it.  COBOL Bro is reliable , resilient and COBOL is the fastest way to process data 
+** There is a reason why big businesses still are dependent on it.  COBOL Bro is reliable , resilient and COBOL is still one of the fastest way to process batch and transactions data 
 
 ** Next time you do a ATM transaction or online transaction through you credit card or netbanking (SAY ALL HAIL BOSS COBOL for my sweet purchase. )
 
