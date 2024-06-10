@@ -32,4 +32,11 @@ There are few thing you need to keep in mind when doing it
 1. In google itself you can find where to download it z/OS ADCD 1.10,1.11,1.13 downlaod all the necessary cckd files
 2. The IBMDEVSECOPS test image for z/OS 2.2 2.5 3.1 are also available on that same website
 3. You need a hercules emulator to load the z/OS ckd cckd DASD images and do the system IPL
-4. Download the emualtor from google or github page of hercules , keep in mind from ADCD Z/OS 1.11 TILL 2.5 only the hercules 4.7 will work ,but for z/OS 3.1 you need version 4.8 of hercules 
+4. Download the emualtor from google or github page of hercules , keep in mind from ADCD Z/OS 1.11 TILL 2.5 only the hercules 4.7 will work ,but for z/OS 3.1 you need version 4.8 of hercules
+5. After all downnloads are completed you need to configure the hercules.cnf file and Run the hercules.exe
+6. connect to the HCD using 3270 , you can use vista320 which comes with a 30 days trial
+7. for ipl of z/OS 1.10,1.11,1.13 follow this guide       https://leo.leung.xyz/wiki/Z/OS_Emulation_with_Hercules
+8. For ipl z/OS 2.2 2.5 and 3.1 you dont need to do the coupling setup
+9. once booted you have to use tso then username in all of these are IBMUSER, password for login will be mentioned in the description of the website from where you are downloading
+10. few places where you can get error are hercules config and vista 3270 ip connection , you can reach me out on my telegram for this , soon i will create a youtube video for this entire setup
+11.  
