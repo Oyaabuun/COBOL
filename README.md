@@ -23,6 +23,8 @@ There are few thing you need to keep in mind when doing it
 
 ** Next time you do a ATM transaction or online transaction through you credit card or netbanking (SAY ALL HAIL BOSS COBOL for my sweet purchase). 
 
+** Many things wont be woring as smooth as they do on the z/OS architecture but like i said its important you learn it 
+
 ** you can reach me on telegram @aroy52
 
 
@@ -30,4 +32,4 @@ There are few thing you need to keep in mind when doing it
 1. In google itself you can find where to download it z/OS ADCD 1.10,1.11,1.13 downlaod all the necessary cckd files
 2. The IBMDEVSECOPS test image for z/OS 2.2 2.5 3.1 are also available on that same website
 3. You need a hercules emulator to load the z/OS ckd cckd DASD images and do the system IPL
-4. 
+4. Download the emualtor from google or github page of hercules , keep in mind from ADCD Z/OS 1.11 TILL 2.5 only the hercules 4.7 will work ,but for z/OS 3.1 you need avobe version 4.8 of hercules 
