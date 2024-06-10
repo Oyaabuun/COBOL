@@ -21,7 +21,13 @@ There are few thing you need to keep in mind when doing it
 
 ** There is a reason why big businesses still are dependent on it.  COBOL Bro is reliable , resilient and COBOL is still one of the fastest way to process batch and transactions data 
 
-** Next time you do a ATM transaction or online transaction through you credit card or netbanking (SAY ALL HAIL BOSS COBOL for my sweet purchase. )
+** Next time you do a ATM transaction or online transaction through you credit card or netbanking (SAY ALL HAIL BOSS COBOL for my sweet purchase). 
 
 ** you can reach me on telegram @aroy52
 
+
+**HOW TO INSTALL z/OS and practice COBOL **
+1. In google itself you can find where to download it z/OS ADCD 1.10,1.11,1.13 downlaod all the necessary cckd files
+2. The IBMDEVSECOPS test image for z/OS 2.2 2.5 3.1 are also available on that same website
+3. You need a hercules emulator to load the z/OS ckd cckd DASD images and do the system IPL
+4. 
